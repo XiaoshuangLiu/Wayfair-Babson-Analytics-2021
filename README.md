@@ -1,3 +1,2 @@
 # Wayfair-Babson-Analytics-2021
-<embed src="https://github.com/XiaoshuangLiu/Wayfair-Babson-Analytics-2021/blob/main/presentation/Babson%20Hack%20-%20Team%2012.pdf" width="800px" height="600px" />
-<iframe src="https://github.com/XiaoshuangLiu/Wayfair-Babson-Analytics-2021/blob/main/presentation/Babson%20Hack%20-%20Team%2012.pdf" width="100%" height="500px"> </iframe>
+https://docs.google.com/presentation/d/1TOH_JUwnoHsdWeeCKhhkhQpB8YY1U1OC/edit#slide=id.gc7c1bdb8fe_0_9
